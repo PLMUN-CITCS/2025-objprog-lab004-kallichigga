@@ -16,7 +16,7 @@ public class ArithmeticDemo {
         System.out.println("Difference: " + difference);
         System.out.println("Product: " + product);
         System.out.println("Quotient: " + quotient);
-        System.out.println("Reminder: " + reminder);
+        System.out.println("Remainder: " + reminder);
         System.out.println("Expression Result: " + expressionResult);
     }
 }
